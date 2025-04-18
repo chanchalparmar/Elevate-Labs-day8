@@ -1,4 +1,5 @@
-#Elevate Labs Internship Task 8– Simple Sales Dashboard Design
+# Elevate Labs Internship Task 8– Simple Sales Dashboard Design
+
 This project is part of **Task 8** from my Data Analyst Internship. The goal was to design a basic interactive dashboard in **Power BI** to visualize sales performance by product category, region, and month.
 
 ---
